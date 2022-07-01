@@ -11,11 +11,11 @@ header{
 section{
 background-color: white;
 /*text-align: center;*/
-border-radius: 10px; /*border-radius para ficar com as bordas arredondadas*/
-padding: 15px; /*para dar espaço dentro da section (ficar maior)*/
-width: 500px; /*largura fixa de 500 pixels*/
-margin: auto; /*para centralizar*/
-box-shadow: 5px 5px 10px blueviolet; /*colocar sombra*/
+border-radius: 10px; 
+padding: 15px; 
+width: 500px; 
+margin: auto; 
+box-shadow: 5px 5px 10px blueviolet; 
 }
 
 footer{
@@ -25,5 +25,5 @@ footer{
 }
 
 select{  
-    overflow:hidden; 
+    overflow:hidden; /*Esconder a barra de rolagem*/
 }
