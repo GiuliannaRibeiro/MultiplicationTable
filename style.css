@@ -1,0 +1,29 @@
+body{
+    background-color: pink;
+    font: normal 15pt arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+background-color: white;
+/*text-align: center;*/
+border-radius: 10px; /*border-radius para ficar com as bordas arredondadas*/
+padding: 15px; /*para dar espaço dentro da section (ficar maior)*/
+width: 500px; /*largura fixa de 500 pixels*/
+margin: auto; /*para centralizar*/
+box-shadow: 5px 5px 10px blueviolet; /*colocar sombra*/
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+select{  
+    overflow:hidden; 
+}
